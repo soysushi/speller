@@ -1,5 +1,5 @@
 
-===================================
+
 A spell checker written in C
 
 
