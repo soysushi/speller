@@ -1,6 +1,7 @@
 
 
 A spell checker written in C
+--------
 
 
 This program enables you to implement a spell checker using the fastest data structure (Trie Data Structure).
